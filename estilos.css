@@ -1,14 +1,17 @@
 
 body{
-    background-color: #f6d4fd;
+    background-color: #3c3c3d;
     font-family: 'Arial', Gadget, sans-serif;
     text-align: center;
+    color: #eeeeee;
 }
 
-.titulo{
-    text-align: center;
-    color: #4a148c;
-    font-family: 'Arial Black', Gadget, sans-serif;
-    margin-top: 20px;
-    margin-bottom: 20px;
+.accordion-button{
+    background-color: #3b3030;
+    color: rgb(245, 235, 235);
+    border: #d65b5b;
 }
+
+
+
+
