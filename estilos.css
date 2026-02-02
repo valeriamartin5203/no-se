@@ -2,8 +2,14 @@
 body{
     background-color: #3c3c3d;
     font-family: 'Arial', Gadget, sans-serif;
-    text-align: center;
+
     color: #eeeeee;
+}
+
+.titulo
+{
+    text-align: center;
+
 }
 
 
