@@ -4,7 +4,8 @@ body{
     font-family: 'Arial', Gadget, sans-serif;
     color: #000000;
     text-align: justify;
-    
+    margin: 10px;
+    border: 5px solid #b15757;
     
 }
 
