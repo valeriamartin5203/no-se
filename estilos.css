@@ -3,6 +3,9 @@ body{
     background-color: #f6f6ff;
     font-family: 'Arial', Gadget, sans-serif;
     color: #000000;
+    text-align: justify;
+    margin: 20px;
+    border: 30px solid #d86161;
 }
 
 .titulo
